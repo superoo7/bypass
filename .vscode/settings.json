@@ -1,0 +1,8 @@
+{
+    "editor.formatOnSave": true,
+    "prettier.printWidth": 100,
+    "prettier.singleQuote": false,
+    "prettier.trailingComma": "none",
+    "prettier.semi": true,
+    "prettier.bracketSpacing": true,
+}

@@ -1,0 +1,35 @@
+{
+  "name": "bypass",
+  "version": "1.0.0",
+  "description": "chrome plugin that get around content restrictions from Quora, etc.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack --config webpack/webpack.dev.js --watch",
+    "build": "webpack --config webpack/webpack.prod.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superoo7/bypass.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/superoo7/bypass/issues"
+  },
+  "homepage": "https://github.com/superoo7/bypass#readme",
+  "devDependencies": {
+    "@types/chrome": "^0.0.75",
+    "copy-webpack-plugin": "^4.5.4",
+    "jest": "^23.6.0",
+    "ts-loader": "^5.3.0",
+    "typescript": "^3.1.4",
+    "webpack": "^4.23.1",
+    "webpack-cli": "^3.1.2",
+    "webpack-merge": "^4.1.4"
+  },
+  "dependencies": {
+    "bulma": "^0.7.2"
+  }
+}
