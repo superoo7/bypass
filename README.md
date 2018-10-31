@@ -2,6 +2,10 @@
 
 chrome plugin that get around content restrictions from Quora, etc.
 
+version: 1.0.0
+
+[Changelog](./CHANGELOG.md)
+
 ## Features
 
 - Bypass permission on Quora site
