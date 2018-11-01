@@ -23,6 +23,15 @@ Since it is still in pending on publishing at chrome web store, the current way 
 4. Choose Load unpacked and select the unzipped file (name: bypass).
 5. Voila, it is installed!
 
+## Roadmap
+
+- Support more sites to bypass. (open to suggestions)
+
+## For Developer
+
+- `yarn dev` for development mode of chrome extensions.
+- `yarn build` build for production.
+
 ## Stack
 
 Bulma.css, Typescript, Webpack
